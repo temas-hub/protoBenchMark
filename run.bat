@@ -1,0 +1,1 @@
+ protoc --proto_path=. --java_out=D:\work\jio\protoBench\protoBench\src\main\java UserXml.proto
